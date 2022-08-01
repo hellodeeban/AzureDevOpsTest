@@ -1,3 +1,4 @@
+#Release 1.0
 # This project supports Cool:GEN server frameworks. #
 
 It defines components, directives, services, pipes and other API to present UI and to interact with the server side.
